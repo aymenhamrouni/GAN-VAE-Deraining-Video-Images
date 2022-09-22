@@ -1,4 +1,4 @@
-# Real-time deraining CS283 Project
+# Real-time deraining 
 First, install all requirements using
 !pip install -r requirements.txt
 
