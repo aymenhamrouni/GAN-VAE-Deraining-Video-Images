@@ -1,6 +1,6 @@
-# Real-time Image deraining using Generative Adversarial Networks (GANs) and Variational Autoencoders (VAE)
+# Real-time Video deraining using Generative Adversarial Networks (GANs) and Variational Autoencoders (VAE)
 
-This project implements the image de-raining model using disentangled generative models. The implementation is based on the research presented in the following paper:
+This project implements the video de-raining model using disentangled generative models. The implementation is based on the research presented in the following paper:
 
 > A. Hamrouni, R. Hamadi, H. Ghazzai and Y. Massoud, "Real-time Video Frame De-raining using Disentangled Generative Models," 2023 IEEE International Conference on Smart Mobility (SM), Thuwal, Saudi Arabia, 2023, pp. 116-120, doi: 10.1109/SM57895.2023.10112450. IEEE. DOI: [10.1109/SM57895.2023.10112450](https://doi.org/10.1109/SM57895.2023.10112450)
 
