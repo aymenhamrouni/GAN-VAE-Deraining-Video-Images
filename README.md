@@ -45,6 +45,11 @@ There is also a jupyter notebook version called test.ipynb
 The notebook train-AE-enhancer.ipynb trains the AUTOENCODER enhancer 
 The notebook train_raindrops.ipynb trains the CAE for raindrop removal 
 
+## License
+
+This code is provided for research purposes only. All rights reserved. Any use of this code must include proper citation of the original paper.
+
+
 
 
 
